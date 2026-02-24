@@ -7,3 +7,7 @@ Mixed was an exercise in
 2. ...implementing a model of prospective language that used a CESK runtime. A CESK machine is common way to model a language's semantics without also designing and implementing a full compiler (the machine effectively fulfills the role of an interpreter), and understanding how to construct one is a critical skill for any student interested in the study of programming languages.
 
 ## Grammar
+The images below contain the BNF grammar for Mixed.
+![the bnf grammar for mixed](images/mixed-bnf.png)
+![the bnf grammar for classes in mixed](images/class-bnf.png)
+![the bnf grammar for types/shapes in mixed](images/type-bnf.png)
